@@ -1,0 +1,8 @@
+prompt the user for how much is budgeted for the month
+set budget to the given amount
+prompt the user for each expense
+set spent to the given value
+add spent to total
+loop until the user enters 0 to exit the loop
+subtract total from budget
+display difference
